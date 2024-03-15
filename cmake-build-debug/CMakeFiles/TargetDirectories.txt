@@ -1,0 +1,3 @@
+/Users/Elina/Documents/C_project/cmake-build-debug/CMakeFiles/..dir
+/Users/Elina/Documents/C_project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Elina/Documents/C_project/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,16 @@
+[CyberSecurity:8]
+Billie Mandala: 5
+Arthur Dent: 3
+Gabriel José de la Concordia García Márquez: 2
+Ahmed Abdallah: 2
+
+[C-programming:3]
+Olive Nelson: 0
+Dilbert Einstein: 5
+Arthur Dent: 4
+Ahmed Abdallah: 5
+
+[Mathematics:5]
+Arthur Dent: 3
+Olive Nelson: 2
+Keijo: 3
